@@ -1,4 +1,6 @@
 <?php
 
-$idade = 21;
+$idade = 2;
 $idadeDaqui10Anos = $idade + 10;
+
+echo $idadeDaqui10Anos;
